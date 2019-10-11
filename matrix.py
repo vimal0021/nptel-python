@@ -33,3 +33,4 @@ for i in range(m) :
 		print(a[i][j],end='  ')
 	print('')
 
+#code by sandy
